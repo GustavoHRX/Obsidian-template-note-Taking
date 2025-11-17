@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "4073d2a2c133e4b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81dc9b503c6555e",
+        "type": "split",
+        "children": [
+          {
+            "id": "37f2765d50a78c18",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "114c707027bcb8d3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/canais do discord.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "canais do discord"
+                }
+              }
+            ]
+          },
+          {
+            "id": "792ca0891f3b9d20",
+            "type": "split",
+            "children": [
+              {
+                "id": "e7e19671c2f2d52c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "7073a1a66dd0bbf5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas diarias/202511171437.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "202511171437"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7fec38ecb0bf3886",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3a37f045e474b5e3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f886b5e9eedfc57",
+    "type": "split",
+    "children": [
+      {
+        "id": "5826876943608b23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c5e67c7c3f6cfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "61d30ab227f5fd05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "381ee58563f61e4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "aabfab35fe0b059f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2308750ae2fcdf50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13aaa9558b0dd914",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian - Biblioteca/6 - Notas Principais/Regras de Fiscal de concurso Publico Indec.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Regras de Fiscal de concurso Publico Indec"
+            }
+          },
+          {
+            "id": "32a4952d17bd7772",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2443a3aa519e19d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "57ffc2b9b5cb9d3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": true,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "7073a1a66dd0bbf5",
+  "lastOpenFiles": [
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/Atualizar Obsidian.md",
+    "Obsidian - Biblioteca/5 - Modelos/Nota Principal.md",
+    "Obsidian - Biblioteca/5 - Modelos/Nota Diaria.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas diarias/202511171437.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/canais do discord.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Links/Outros.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/links para edição.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas diarias",
+    "Obsidian - Biblioteca/5 - Modelos/Nota de Projetos.md",
+    "Obsidian - Biblioteca/5 - Modelos/Nota de Origem.md",
+    "Untitled.canvas",
+    "Obsidian - Biblioteca/5 - Modelos/Nota de Leitura.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/Introduction to Davinci.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/How to start freelancing.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/Comentários do Reddit sobre crescer como editor.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/Anotações de Python - Curso em video.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/Anotação de usuário do reddit sobre começaer a investir.md",
+    "Obsidian - Biblioteca/1 - Notas para aprofundar/Notas/Técnicas de estudo.md",
+    "Obsidian - Biblioteca/5 - Modelos/Nota de Redação.md",
+    "Obsidian - Biblioteca/0 - Notas para aprofundar/Notas/testedenora--.md",
+    "Obsidian - Biblioteca/6 - Notas Principais/Youtube para criação de conteúdo - uma introdução (Nota Antiga).md",
+    "Obsidian - Biblioteca/6 - Notas Principais/Trabalho PA - Estimativa de Gasto de energia por setores.md",
+    "Obsidian - Biblioteca/6 - Notas Principais/TESTOSTERONA - O hormônio Masculino.md",
+    "Obsidian - Biblioteca/6 - Notas Principais/Terapia de exposição, o que é e como funciona.md",
+    "Obsidian - Biblioteca/6 - Notas Principais/Taxa Selic.md",
+    "Obsidian - Biblioteca/6 - Notas Principais/Tarefa de criação de API e ambiente virtual com Python.md",
+    "Obsidian - Biblioteca/6 - Notas Principais/Storytelling para Youtube.md",
+    "Obsidian - Biblioteca/6 - Notas Principais/Sites contendo cursos grátis.md",
+    "Obsidian - Biblioteca/6 - Notas Principais",
+    "Obsidian - Biblioteca/5 - Modelos",
+    "Obsidian - Biblioteca/4 - Indexes",
+    "Obsidian - Biblioteca/3 - Tags",
+    "Obsidian - Biblioteca/2 - Material de Origem/Videos",
+    "Obsidian - Biblioteca/2 - Material de Origem/Sites",
+    "Obsidian - Biblioteca/2 - Material de Origem/Seções de comentários",
+    "Obsidian - Biblioteca/2 - Material de Origem/Programação/Python",
+    "Obsidian - Biblioteca/2 - Material de Origem/Programação/Linguagem C",
+    "Obsidian - Biblioteca/2 - Material de Origem/Attachments/Pasted image 20251114203116.png",
+    "Obsidian - Biblioteca/2 - Material de Origem/Attachments/20251109_143203.jpg",
+    "Obsidian - Biblioteca/2 - Material de Origem/Attachments/20251109_143157.jpg",
+    "Obsidian - Biblioteca/2 - Material de Origem/Attachments/20251109_143153.jpg",
+    "Obsidian - Biblioteca/2 - Material de Origem/Attachments/20251109_143149.jpg",
+    "Obsidian - Biblioteca/1 - Material de Origem/Attachments/Pasted image 20251116133756.png",
+    "Obsidian - Biblioteca/1 - Material de Origem/Attachments/Pasted image 20251116135106.png",
+    "Obsidian - Biblioteca/1 - Material de Origem/Attachments/Pasted image 20251114203116.png",
+    "Obsidian - Biblioteca/1 - Material de Origem/Attachments/20251109_143203.jpg",
+    "Obsidian - Biblioteca/1 - Material de Origem/Attachments/20251109_143157.jpg",
+    "Obsidian - Biblioteca/2 - Material de Origem/Imagens/Untitled.canvas",
+    "Obsidian - Biblioteca/2 - Material de Origem/Imagens/Teste de compatibilidade.canvas"
+  ]
+}

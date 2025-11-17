@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Obsidian - Biblioteca/1 - Notas para aprofundar\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16448250
+      }
+    },
+    {
+      "query": "path:\"Obsidian - Biblioteca/2 - Material de Origem\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Obsidian - Biblioteca/3 - Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5111552
+      }
+    },
+    {
+      "query": "path:\"Obsidian - Biblioteca/6 - Notas Principais\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.05932617187500023,
+  "close": true
+}

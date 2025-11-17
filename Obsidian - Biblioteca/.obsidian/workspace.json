@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "e5ba07511231aeac",
+    "type": "split",
+    "children": [
+      {
+        "id": "200b1e3e7295fc20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98d9d7a8330924ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Material de Origem/Canais e Contas sociais/MMDRE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MMDRE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8353d171574b664",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f75040ed770bb0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27a27581c8253881",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a301757409bb4644",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "691e07ca44efac2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fe56a8bb82e33305",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa74dc5fca2854e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd66f776348092d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Notas Principais/Exercícios e comandos SQL de vídeo-aula.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Exercícios e comandos SQL de vídeo-aula"
+            }
+          },
+          {
+            "id": "294ac00d333f25eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Notas Principais/Exercícios e comandos SQL de vídeo-aula.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Exercícios e comandos SQL de vídeo-aula"
+            }
+          },
+          {
+            "id": "d741f15ccbbe0220",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "18c2c6d026810327",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Material de Origem/Canais e Contas sociais/MMDRE.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MMDRE"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98d9d7a8330924ad",
+  "lastOpenFiles": [
+    "2 - Material de Origem/Sites/Pretty Good Agents.md",
+    "2 - Material de Origem/Canais e Contas sociais/MMDRE.md",
+    "2 - Material de Origem/Cursos/Curso de Figma - Jornada do Dev.md",
+    "2 - Material de Origem/Sites/Strawhat.md",
+    "3 - Tags/vida.md",
+    "6 - Notas Principais/Como se opor a insanidade.md",
+    "2 - Material de Origem/Videos/Como Vender Na Shopee Do Zero Passo a Passo Atualizado 2025 (Guia Completo).md",
+    "2 - Material de Origem/Videos/Curso Completo de WordPress para Iniciantes - Atualizado 2025.md",
+    "2 - Material de Origem/Outros/Empresas de TI para encaminhar currículo.md",
+    "2 - Material de Origem/Artigos/POR QUE TODOS COPIAM OS GRINGOS.md",
+    "2 - Material de Origem/Cursos/Cursos gratuito google e Ciee.md",
+    "2 - Material de Origem/Cursos/Cursos dev gratuitos - Jornada do Dev.md",
+    "6 - Notas Principais/Untitled.md",
+    "6 - Notas Principais/Edição usando Vegas.md",
+    "2 - Material de Origem/Sites/amp4.cc.md",
+    "2 - Material de Origem/Videos/The Art of Asking.md",
+    "3 - Tags/edicao.md",
+    "2 - Material de Origem/Canais e Contas sociais/Bladexdz.md",
+    "6 - Notas Principais/Estudo de caso - HunterTV.md",
+    "6 - Notas Principais/Como escrever uma newsletter.md",
+    "6 - Notas Principais/A ilusão de fazer diversas atividades de uma vez só.md",
+    "6 - Notas Principais/A arte de quebrar tarefas em porções menores.md",
+    "6 - Notas Principais/cronograma_projeto_energia.md",
+    "6 - Notas Principais/Como fazer grana na internet, quando começar.md",
+    "6 - Notas Principais/Curso Completo de HTML e CSS para Iniciantes + Projeto Front-end Completo.md",
+    "6 - Notas Principais/Organizando Maquinário.md",
+    "2 - Material de Origem/Livros/Sem título.canvas",
+    "2 - Material de Origem/Canais e Contas sociais",
+    "2 - Material de Origem/Materi",
+    "2 - Material de Origem/Jogos",
+    "2 - Material de Origem/Musicas",
+    "1 - Notas para aprofundar/Notas",
+    "1 - Notas para aprofundar/Links",
+    "2 - Material de Origem/Programação/Databases",
+    "Como criei uma Newsletter de R$10K",
+    "2 - Material de Origem/Material para gravação",
+    "Sem título.canvas",
+    "2 - Material de Origem/Programação/Godot",
+    "Pasted Image 20240531203427_770.png",
+    "Pasted Image 20240531203347_426.png"
+  ]
+}

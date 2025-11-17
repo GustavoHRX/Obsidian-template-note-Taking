@@ -1,0 +1,29 @@
+/* Marcador amarelo */
+.amarelo {
+    background-color: #FFD700; /* Cor amarelo */
+    color: #000000; /* Cor do texto dentro do marcador */
+}
+
+/* Marcador verde */
+.verde {
+    background-color: #90EE90; /* Cor verde */
+    color: #000000; /* Cor do texto dentro do marcador */
+}
+
+/* Marcador rosa */
+.rosa {
+    background-color: #FFC0CB; /* Cor rosa */
+    color: #000000; /* Cor do texto dentro do marcador */
+}
+
+/* Marcador roxo */
+.roxo {
+    background-color: #DDA0DD; /* Cor roxo */
+    color: #000000; /* Cor do texto dentro do marcador */
+}
+
+/* Marcador azul */
+.azul {
+    background-color: #ADD8E6; /* Cor azul */
+    color: #000000; /* Cor do texto dentro do marcador */
+}
