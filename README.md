@@ -1,4 +1,5 @@
 # *"Ze road is long und dark, but I know where we are going."*
+*~Edward Richtofen*
 
 Jaz aqui meu repositório onde irei atualizar meus templates do obsidian, que uso para tomar notas dos bagui interessante que encontro pela net!
 
